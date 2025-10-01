@@ -1,4 +1,4 @@
-\# 📈 Intrinsic Value Calculator
+# 📈 Intrinsic Value Calculator
 
 
 
@@ -10,7 +10,7 @@ A simple Python library for estimating the \*\*intrinsic value of publicly trade
 
 
 
-\## ⚙️ Requirements
+## ⚙️ Requirements
 
 
 
@@ -22,17 +22,13 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-```bash
-
-
+```
 
 ---
 
 
 
-\## 🧠 Usage Example
-
-
+## 🧠 Usage Example
 
 TBD
 
